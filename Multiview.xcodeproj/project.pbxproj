@@ -13,6 +13,7 @@
 		843660972212658D0048925F /* Multiview.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 843660952212658D0048925F /* Multiview.xcdatamodeld */; };
 		843660992212658F0048925F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 843660982212658F0048925F /* Assets.xcassets */; };
 		8436609C2212658F0048925F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8436609A2212658F0048925F /* LaunchScreen.storyboard */; };
+		843660A6221269CB0048925F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843660A5221269CB0048925F /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		843660982212658F0048925F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8436609B2212658F0048925F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8436609D2212658F0048925F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		843660A5221269CB0048925F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				8436608E2212658D0048925F /* AppDelegate.swift */,
 				843660902212658D0048925F /* ViewController.swift */,
+				843660A5221269CB0048925F /* SecondViewController.swift */,
 				843660922212658D0048925F /* Main.storyboard */,
 				843660982212658F0048925F /* Assets.xcassets */,
 				8436609A2212658F0048925F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843660A6221269CB0048925F /* SecondViewController.swift in Sources */,
 				843660912212658D0048925F /* ViewController.swift in Sources */,
 				843660972212658D0048925F /* Multiview.xcdatamodeld in Sources */,
 				8436608F2212658D0048925F /* AppDelegate.swift in Sources */,
